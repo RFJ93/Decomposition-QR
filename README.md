@@ -14,15 +14,15 @@ Le projet comprend :
 
 ## Rappels mathématiques
 
-Pour toute matrice \( A \in \mathbb{R}^{m \times n} \), la décomposition QR consiste à écrire :
+Pour toute matrice $A \in \mathbb{R}^{m \times n}$, la décomposition QR consiste à écrire :
 
-\[
+$$
 A = Q \times R
-\]
+$$
 
 où :
-- \( Q \) est une matrice orthogonale (\( Q^T Q = I \))
-- \( R \) est une matrice triangulaire supérieure.
+- $Q$ est une matrice orthogonale ($Q^T Q = I$)
+- $R$ est une matrice triangulaire supérieure.
 
 Cette factorisation est très utilisée en calcul scientifique pour :
 - Résoudre des systèmes linéaires,
