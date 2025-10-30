@@ -34,3 +34,7 @@ Cette factorisation est très utilisée en calcul scientifique pour :
 - **Python 3**
 - **NumPy**
 - **Jupyter Notebook**
+
+## Auteur
+
+**Rayan FRAJ**  
